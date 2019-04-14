@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Here it is. Some content.
+title: A great title goes here
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
